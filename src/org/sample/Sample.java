@@ -7,6 +7,8 @@ public class Sample {
 		System.out.println("How are you??");
 		System.out.println("smart skills");
 		System.out.println("hello this is a branch");
+		System.out.println("Hello this is B branch");
+
 	}
 
 }
